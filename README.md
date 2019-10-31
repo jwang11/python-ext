@@ -13,3 +13,11 @@ $python pycall.py
 $make pycallclass
 $python pycallclass.py
 ```
+
+# python extension
+```
+$python setup.py build
+$sudo python setup.py install
+$python pyext.py
+
+```
